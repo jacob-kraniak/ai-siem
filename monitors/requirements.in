@@ -1,7 +1,7 @@
 # Direct dependencies for the Scalyr agent monitor plugins.
 # Compile the hash-locked requirements.txt from this file:
 #   pip-compile --generate-hashes --output-file requirements.txt requirements.in
-requests==2.32.4
+requests==2.33.0
 pandas==2.2.3
 numpy==1.26.4
 geoip2==4.8.1
